@@ -18,7 +18,7 @@ static void datos(){
 
 
 System.out.print("esto es una practica de java see");
-
+System.out.print("esto es una de las formas que realiza un codigo");
 
 
 
