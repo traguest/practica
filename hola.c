@@ -17,9 +17,9 @@ printf("Hola esto es una practica en c\n");
 
     printf("Dame un numero?");
 
-scanf('%d',&valor);
+scanf("%d",&valor);
 
-prinf("el valor que me dite es :%d",valor);
+printf("el valor que me dite es :%d",valor);
     
 
 
